@@ -1,1 +1,2 @@
-# osoc_season1_shabdarov_sanzhar
+Progress board for the OSOC:
+1) Completed Intro
